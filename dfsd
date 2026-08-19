@@ -1,0 +1,26 @@
+[1mdiff --git a/AdventureWorks_Customers.csv b/AdventureWorks_Customers.csv[m
+[1mindex 28a6b30..ca03614 100644[m
+[1m--- a/AdventureWorks_Customers.csv[m
+[1m+++ b/AdventureWorks_Customers.csv[m
+[36m@@ -18138,12 +18138,12 @@[m [mCustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres[m
+ 29472,MRS.,LACEY,SHARMA,3/14/1960,M,F,lacey44@adventure-works.com,"$10,000 ",1,High School,Manual,N[m
+ 29473,MRS.,CARMEN,SUBRAM,5/22/1960,S,F,carmen16@adventure-works.com,"$20,000 ",1,Partial College,Manual,N[m
+ 29474,MR.,JAIME,RAJE,10/4/1959,M,M,jaime36@adventure-works.com,"$20,000 ",2,Partial College,Manual,N[m
+[31m-29475,MR.,JARED,WARD,9/23/1959,S,M,jared6@adventure-works.com,"$20,000 ",2,Partial College,Manual,N[m
+[31m-29476,MRS.,ELIZABETH,BRADLEY,7/3/1959,M,F,elizabeth30@adventure-works.com,"$20,000 ",2,Partial College,Manual,N[m
+[31m-29477,MR.,NEIL,RUIZ,7/6/1959,M,M,neil3@adventure-works.com,"$20,000 ",2,Partial College,Manual,N[m
+[31m-29478,MR.,DARREN,CARLSON,5/25/1959,S,M,darren41@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y[m
+[31m-29479,MR.,TOMMY,TANG,7/4/1958,M,M,tommy2@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y[m
+[31m-29480,MRS.,NINA,RAJI,11/10/1960,S,F,nina21@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y[m
+[31m-29481,MR.,IVAN,SURI,1/5/1960,S,M,ivan0@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,N[m
+[31m-29482,MR.,CLAYTON,ZHANG,3/5/1959,M,M,clayton0@adventure-works.com,"$30,000 ",3,Bachelors,Clerical,Y[m
+[31m-29483,MR.,JÉSUS,NAVARRO,12/8/1959,M,M,jésus9@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
+[32m+[m[32m,,,,,,,,,,,,[m[41m[m
